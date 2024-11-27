@@ -1,2 +1,2 @@
-# truck-listify
-Dynamics truck lists to facilite assignment-related tasks
+# truck-list-manager
+Manager of dynamics truck lists to optimize and simplify assignment-related tasks
