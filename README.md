@@ -1,2 +1,6 @@
-# Truck-List Manager 🚚
-Manager of dynamics truck lists to optimize and simplify assignment-related tasks
+# OSC Assistant 🚚
+Tool to improve OSC (Operational Support Center) efficiency through specific tasks scripts
+
+
+## Improved tasks 🏃
+- Whitney duplications and omissions report;
