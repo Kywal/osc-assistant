@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: osc-assistant
+  profiles:
+    active: dev
+
+server:
+  port: 8080
