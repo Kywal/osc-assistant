@@ -3,4 +3,4 @@ Tool to improve OSC (Operational Support Center) efficiency through specific tas
 
 
 ## Improved tasks 🏃
-- Whitney duplications and omissions report;
+- Duplications and omissions report;
