@@ -1,4 +1,4 @@
-# OSC Assistant 🚚
+# MPV: OSC Assistant 🚚
 Tool to improve OSC (Operational Support Center) efficiency through specific tasks scripts
 
 
